@@ -9,6 +9,8 @@ Cleans and formats data (prices, postcodes, dates, etc.) using Polars for high-p
 Exports data to CSV or Excel-friendly format
 Handles pagination and dynamic content
 
-# Tech stack: Python, BeautifulSoup / Selenium, Polars
+# Tech stack:
+Python, BeautifulSoup / Selenium, Polars
 
-Use case: Market research, property price analysis, investment decision-making, or building your own property database.
+# Use case:
+Market research, property price analysis, investment decision-making, or building your own property database.
