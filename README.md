@@ -13,4 +13,7 @@ Handles pagination and dynamic content
 Python, BeautifulSoup / Selenium, Polars
 
 # Use case:
-Market research, property price analysis, investment decision-making, or building your own property database.
+Market research, property price analysis, investment decision-making, or building your own property database.\
+
+# Libraries: 
+`pip install openpyxl polars pyarrow`
