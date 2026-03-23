@@ -1,2 +1,14 @@
-# uk-property-scraper
-Python scraper for UK property listings. Extracts price, location, type, and date, cleans and formats data, and exports to CSV/Excel. Perfect for real estate research, market analysis, or building your own property database.
+#UK Property Database Scraper
+
+A Python-based scraper designed to extract property data from UK real estate listings. Collects key information such as price, location, property type, and listing date, and outputs structured data ready for analysis or integration into your projects. Ideal for real estate analysts, investors, and developers looking to automate data collection.
+
+Features:
+
+Scrapes multiple UK property platforms efficiently
+Cleans and formats data (prices, postcodes, dates, etc.) using Polars for high-performance data handling
+Exports data to CSV or Excel-friendly format
+Handles pagination and dynamic content
+
+Tech stack: Python, BeautifulSoup / Selenium, Polars
+
+Use case: Market research, property price analysis, investment decision-making, or building your own property database.
